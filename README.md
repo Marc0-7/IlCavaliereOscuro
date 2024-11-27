@@ -1,6 +1,8 @@
 <html lang="it">
     <head>
         <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width"/>
+        <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
         <h1>Il cavaliere oscuro</h1>

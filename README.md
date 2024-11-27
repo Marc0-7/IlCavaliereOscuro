@@ -5,7 +5,6 @@
     </head>
     <body>
         <h1>Il cavaliere oscuro</h1>
-        <img src="images/firefox-icon.png"/>
         <p>
            Il miglior eroe di sempre... 
         </p>
